@@ -276,7 +276,7 @@ export const Hero = () => {
 
             {/* PDF iframe */}
             <iframe
-              src="/Varun_V_Fullstack_Resume.pdf"
+              src="/Varun_Full-Stack_Resume.pdf"
               title="CV Preview"
               className="w-full h-full"
             />
